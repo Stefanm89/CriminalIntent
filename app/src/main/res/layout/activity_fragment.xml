@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Containter ->> каде во view-то на Activity треба да се појави view-то на fragment -->
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="criminalintent.android.bignerdranch.com.criminalintent.CrimeActivity">
+
+</FrameLayout>
+
